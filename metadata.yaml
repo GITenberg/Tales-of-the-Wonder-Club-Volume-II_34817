@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '37251'
     url: http://www.gutenberg.org/2009/agents/37251
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34817#Tales-of-the-Wonder-Club-Volume-II
 gutenberg_issued: '2011-01-02'
 gutenberg_type: Text
 identifiers:
